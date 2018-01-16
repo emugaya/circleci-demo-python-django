@@ -1,6 +1,7 @@
 # CircleCI Demo Application: Python / Django
 
 [![CircleCI](https://circleci.com/gh/CircleCI-Public/circleci-demo-python-django.svg?style=svg)](https://circleci.com/gh/CircleCI-Public/circleci-demo-python-django)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/95e466832f56ad76c19f/test_coverage)](https://codeclimate.com/github/emugaya/circleci-demo-python-django/test_coverage)
 
 This is an example application showcasing how to build test and deploy a Django app on CircleCI 2.0.
 
